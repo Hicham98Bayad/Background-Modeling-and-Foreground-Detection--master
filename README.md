@@ -15,7 +15,7 @@ And uses machine learning methods to classify the pexils is that in the backgrou
   ![image](https://user-images.githubusercontent.com/108405071/216430684-bcc958c6-5110-436b-921e-1b6063cbceff.png)
 
   
-<br><br><br><br>
+<br><br>le fichier 'Sources' contient des video pour les test<br><br>
 
 tools to use:<br>
 OpenCV <br>
